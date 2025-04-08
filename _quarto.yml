@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "DS2023 Final Example"
+  author: "Natalie Kupperman"
+  favicon: logo.png
+  description: An outline for the DS2023 Communicating with Data final project report.
+  keyword: data science, communicating, storytelling, data visualization
+  url: https://n-kupperman.github.io/ds2023-final/
+  sidebar: 
+    logo: logo.png
+    search: true
+  repo-url: https://github.com/n-kupperman/ds2023-final
+  repo-branch: master
+  image: logo.png
+  
+
+  chapters:
+    - index.qmd
+    - datacleaning.qmd
+    - eda.qmd
+    - dataviz.qmd
+    - datadictionary.qmd
+
+
+format:
+  html:
+    theme:
+      light: minty
+    code-fold: false
+    backgroundcolor: "#FFFFFF"
