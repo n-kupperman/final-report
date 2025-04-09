@@ -33,5 +33,12 @@
     "title": "DS2023 Final Example",
     "section": "Conclusion",
     "text": "Conclusion\n[use storytelling to give your conclusions and/or action items, can include a visual]"
+  },
+  {
+    "objectID": "datacleaning.html",
+    "href": "datacleaning.html",
+    "title": "1  Data Cleaning",
+    "section": "",
+    "text": "Here you will show the steps for taken to clean/merge the original dataset(s) to the dataset used in your final analysis.\nLet people know this is simulated data.\nEverything should be readable and documented. No large printed tables. If you need to print a table, use features like scrolling or tabs."
   }
 ]
