@@ -5,3 +5,5 @@ Here you will show the steps for taken to clean/merge the original dataset(s) to
 Let people know this is simulated data. 
 
 Everything should be readable and documented. No large printed tables. If you need to print a table, use features like scrolling or tabs. 
+
+You can write this in Markdown in a quarto document (.qmd) or convert your .ipynb to a quarto document. 
