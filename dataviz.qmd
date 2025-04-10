@@ -1,0 +1,7 @@
+# Data Visualization
+
+The visuals in your report (index.qmd) will be exported images of your graphs. Here you will document the code to reproduce your visualizations. 
+
+A beginner should be able to understand your code (use comments and markdown!).
+
+Data cleaning should already be done. Use your working dataset here. 
