@@ -39,6 +39,20 @@
     "href": "datacleaning.html",
     "title": "1  Data Cleaning",
     "section": "",
-    "text": "Here you will show the steps for taken to clean/merge the original dataset(s) to the dataset used in your final analysis.\nLet people know this is simulated data.\nEverything should be readable and documented. No large printed tables. If you need to print a table, use features like scrolling or tabs."
+    "text": "Here you will show the steps for taken to clean/merge the original dataset(s) to the dataset used in your final analysis.\nLet people know this is simulated data.\nEverything should be readable and documented. No large printed tables. If you need to print a table, use features like scrolling or tabs.\nYou can write this in Markdown in a quarto document (.qmd) or convert your .ipynb to a quarto document."
+  },
+  {
+    "objectID": "eda.html",
+    "href": "eda.html",
+    "title": "2  Exploratory Data Analysis",
+    "section": "",
+    "text": "Here is where your exploratory data analysis will go.\nUse your cleaned dataset.\nOnly show exploration pertinent to your report."
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "3  Data Visualization",
+    "section": "",
+    "text": "The visuals in your report (index.qmd) will be exported images of your graphs. Here you will document the code to reproduce your visualizations.\nA beginner should be able to understand your code (use comments and markdown!).\nData cleaning should already be done. Use your working dataset here."
   }
 ]
