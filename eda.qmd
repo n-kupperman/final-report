@@ -1,0 +1,7 @@
+# Exploratory Data Analysis
+
+Here is where your exploratory data analysis will go. 
+
+Use your cleaned dataset. 
+
+Only show exploration pertinent to your report.  
